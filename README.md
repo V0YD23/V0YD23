@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Dugriyal</h1>
 <h3 align="center">Learner and Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash1378&label=Profile%20views&color=0e75b6&style=flat" alt="yash1378" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=V0YD23&label=Profile%20views&color=0e75b6&style=flat" alt="yash1378" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash1378" alt="yash1378" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=V0YD23" alt="yash1378" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity and Foundry**
 
